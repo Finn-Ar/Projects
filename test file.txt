@@ -1,0 +1,10 @@
+REM Test
+DELAY 1000
+ENTER
+STRING My name is Finn Arterton
+ENTER
+STRING Please contact me at +44 7506255949 
+ENTER
+STRING or at finnarterton@proton.me
+ENTER
+STRING Mulțumesc
