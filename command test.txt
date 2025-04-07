@@ -1,0 +1,12 @@
+DELAY 1000
+STRING Testing Command + Up Arrow...
+ENTER
+GUI UP
+DELAY 1000
+STRING Testing Command + Space...
+ENTER
+GUI SPACE
+DELAY 1000
+STRING Testing Command + N...
+ENTER
+GUI n
