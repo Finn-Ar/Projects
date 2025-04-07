@@ -1,10 +1,83 @@
-REM Test
 DELAY 1000
+STRING Starting key test...
 ENTER
-STRING My name is Finn Arterton
+STRING Letters:
 ENTER
-STRING Please contact me at +44 7506255949 
+STRING abcdefghijklmnopqrstuvwxyz
 ENTER
-STRING or at finnarterton@proton.me
+STRING Uppercase:
 ENTER
-STRING Mulțumesc
+SHIFT a
+SHIFT b
+SHIFT c
+SHIFT d
+SHIFT e
+SHIFT f
+SHIFT g
+SHIFT h
+SHIFT i
+SHIFT j
+SHIFT k
+SHIFT l
+SHIFT m
+SHIFT n
+SHIFT o
+SHIFT p
+SHIFT q
+SHIFT r
+SHIFT s
+SHIFT t
+SHIFT u
+SHIFT v
+SHIFT w
+SHIFT x
+SHIFT y
+SHIFT z
+ENTER
+STRING Numbers:
+ENTER
+STRING 0123456789
+ENTER
+STRING Symbols:
+ENTER
+STRING !@#$%^&*()_+-=[]{}\|;:'",.<>/?
+ENTER
+STRING Function Keys:
+ENTER
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+F12
+ENTER
+STRING Navigation Keys:
+ENTER
+UP
+DOWN
+LEFT
+RIGHT
+ENTER
+STRING Special Keys:
+ENTER
+TAB
+ENTER
+ESCAPE
+BACKSPACE
+DELETE
+SPACE
+ENTER
+STRING Modifier Combos:
+ENTER
+CONTROL a
+ALT b
+GUI c
+ENTER
+STRING Test complete.
+ENTER
